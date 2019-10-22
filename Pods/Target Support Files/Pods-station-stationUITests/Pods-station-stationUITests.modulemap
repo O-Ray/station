@@ -1,0 +1,6 @@
+framework module Pods_station_stationUITests {
+  umbrella header "Pods-station-stationUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
